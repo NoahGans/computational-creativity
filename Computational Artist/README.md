@@ -5,7 +5,7 @@ Title:
 Crafty Line Boii
 
 Running Instructions:
-The code should just run with a simple terminal command, now arguments are required. 
+The code should just run with a simple terminal command, no arguments are required. 
 
 Description:
 
